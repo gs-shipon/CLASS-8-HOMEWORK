@@ -1,0 +1,58 @@
+/* all common css start  */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+    a {
+        text-decoration: none;
+    }
+    ul,
+    ol{
+        list-style-type: none;
+    }
+    .container{
+        width: 1210px;
+        margin: 0 auto;
+    }
+/* all common css end */
+/* header part start  */
+#headerPart{
+    background: #F9F9FC;
+   
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.menu ol li a{
+    padding: 0 25px;
+    line-height: 70px;
+    color: #000000;
+     font-weight: 400;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.button a{
+    padding: 10px 20px;
+    background: #5E3BEE;
+    border-radius: 50px; 
+    color: #ffffff;
+     font-weight: 400;
+    text-transform: uppercase;
+    font-size: 15px;
+    
+}
+.button i{
+    margin-left: 10px;
+}
+
+   
+    
+    
+
+/* header part end */
