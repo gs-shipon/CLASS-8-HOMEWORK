@@ -125,6 +125,7 @@
     padding: 25px;
     text-align: center;
     text-transform: uppercase;
+    box-shadow: 37px 37px 80px 0px rgba(0, 0, 0, 0.1);
 }
 .counterItem h3{
     font-size: 48px;
